@@ -39,7 +39,7 @@ npm test {nombre del homework}.test.js
 Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`, el del homework 01: `npm test JSI.test.js`
 y así.
 
-> No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
+> No todos los homeworks tienen tests, está detallado en la descripción de cada uno. jijiji bai
 
 > **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
 
